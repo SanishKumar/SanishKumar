@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanish Kumar</h1>
 <h3 align="center">A passionate full stack developer and AI/ML Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sanishkumar" /> </p>
 
 - 🔭 I’m currently working on **Auza: The Unified Data Flow & Classification Hub**
 
