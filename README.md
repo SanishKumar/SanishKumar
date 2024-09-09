@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer and AI/ML Engineer from India</h3>
 <br><br>
 
-- 🔭 I’m currently working on **Auza: The Unified Data Flow & Classification Hub**
+- 🔭 I’m currently working on **Voice enabled user interface for geospatial map based**
 
 - 🌱 I’m currently learning **Kubernetes**
 
