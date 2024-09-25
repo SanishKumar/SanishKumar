@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Offline Voice enabled user interface for geospatial map based web-applications**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes** and **Machine Learning**
 
 - 💬 Ask me about **Full Stack Development and Machine Learning**
 
