@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full stack developer and AI/ML Engineer from India</h3>
 <br><br>
 
-- 🔭 I’m currently working on **Offline Voice enabled user interface for geospatial map based web-applications**
+- 🔭 I’m currently working on **Offline Voice enabled user interface for geospatial map based web-application**
 
 - 🌱 I’m currently learning **Kubernetes** and **Machine Learning**
 
-- 💬 Ask me about **Full Stack Development and Machine Learning**
+- 💬 Ask me about **Full Stack Development, Machine Learning and System Design**
 
 - 📫 How to reach me **sanishkumar1212@gmail.com**
 
