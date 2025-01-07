@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **Data Structures and Algorithms** skills
 
-- 🌱 I’m learning **Kubernetes** and **Machine Learning**
+- 🌱 I’m learning **Devops** and **Machine Learning**
 
 - 💬 Ask me about **Full Stack Development, Machine Learning and System Design**
 
