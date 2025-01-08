@@ -6,7 +6,7 @@
 
 - 🌱 I’m learning **Devops** and **Machine Learning**
 
-- 💬 Ask me about **Full Stack Development, Machine Learning and System Design**
+- 💬 Ask me about **Full Stack Development, Devops, Machine Learning and System Design**
 
 - 📫 How to reach me **sanishkumar1212@gmail.com**
 
