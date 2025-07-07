@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sanishkumar1212@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m0F9eWlrgAXhRcy0O5BBYm0cpc3tXND-/view?usp=sharing](https://drive.google.com/file/d/1m0F9eWlrgAXhRcy0O5BBYm0cpc3tXND-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1m0F9eWlrgAXhRcy0O5BBYm0cpc3tXND-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
