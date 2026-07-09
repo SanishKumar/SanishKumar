@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanish Kumar</h1>
-<h3 align="center">A passionate Devops Engineer, Full Stack Developer, and AI/ML Engineer</h3>
+<h3 align="center">AI Engineer @ NiftyBooks Flex Co. (Wien, Austria)</h3>
 
 
-- 🔭 I’m currently working on **Competitive Programming and System Design**
+- 🔭 I’m currently working on  [Cashflow](https://github.com/SanishKumar/Cashflow) and [System Synthesis](https://github.com/SanishKumar/System-Synthesis)
 
-- 🌱 I’m currently learning **Machine Learning and Devops**
+- 🌱 I’m currently expanding my knowledge in **Machine Learning and Devops**
 
 - 👨‍💻 All of my projects are available at [https://sanish-kumar.vercel.app](https://sanishkumar.vercel.app/)
 
