@@ -1,100 +1,60 @@
 # Sanish Kumar
 
-**Software Engineer focused on ML systems, computer vision, and backend infrastructure.**
+Software engineer working on spatial systems, backend infrastructure, ML/CV, and developer tooling.
 
-I build systems involving model inference, computer-vision pipelines, real-time collaboration, graph algorithms, and developer tooling.
+I like building systems where correctness, reliability, and measurable behavior matter more than just getting a demo to work.
 
-My current focus is moving beyond model integration toward deeper engineering work: reproducible evaluation, GPU inference profiling, distributed state synchronization, failure recovery, and measurable system behavior.
+## Projects
 
-## Selected Work
+### [SpatialForge](https://github.com/SanishKumar/Spatial_Forge)
+Deterministic 3D reconstruction from calibrated RGB-D scans.
 
-| Project                                                             | Technical focus                                                                                 |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [System Synthesis](https://github.com/SanishKumar/System-Synthesis) | Real-time collaboration, graph-state synchronization, Socket.IO, Redis, architecture analysis   |
-| [VoiceGIS](https://github.com/SanishKumar/VoiceGIS)                 | Command-parser evaluation, library design, GIS adapters, browser speech and Whisper integration |
-| [CashFlow](https://github.com/SanishKumar/Cashflow)                 | C++, WebAssembly, exact and approximate graph algorithms, backend systems                       |
-| ConsistLab — in development                                         | PyTorch, diffusion evaluation, GPU profiling, character-identity consistency                    |
+- TSDF reconstruction from depth frames + known camera poses
+- validated on real TUM RGB-D data
+- sparse fusion optimized from ~210s to ~2s
+- optimized path remains byte-identical to the reference implementation
+- 434 automated tests
 
-## Current Technical Focus
+### [VoiceGIS Indoor Spatial Twin](https://github.com/SanishKumar/voicegis-indoor-ar)
+Indoor mapping and navigation system with versioned spatial data.
 
-I am currently working on a reproducible evaluation and profiling system for multi-character diffusion pipelines.
+- multi-floor and wheelchair-aware routing
+- 2D + 3D spatial views
+- route receipts and versioned closures
+- localization replay and uncertainty handling
+- offline package verification
 
-The project is intended to compare identity-conditioning approaches across:
+### [VoiceGIS](https://github.com/SanishKumar/VoiceGIS)
+Controlled natural-language execution for GIS applications.
 
-* Character consistency
-* Prompt adherence
-* Image diversity
-* Identity leakage between characters
-* Inference latency
-* Peak GPU memory
-* Quantization and compilation trade-offs
-* Failure and out-of-memory rates
+`text/speech → typed plan → policy → confirmation → execution`
 
-I am also strengthening System Synthesis around collaboration correctness, authorization, deterministic graph analysis, failure recovery, and multi-instance synchronization.
+Includes permission checks, capability validation, execution receipts, and a reproducible 538-case parser benchmark.
+
+### [System Synthesis](https://github.com/SanishKumar/System-Synthesis)
+Architecture change intelligence for pull requests.
+
+Turns infrastructure revisions into canonical graphs, computes semantic changes, runs deterministic policy, and publishes findings through GitHub Actions, SARIF, CLI output, and a review UI.
+
+### [CashFlow](https://github.com/SanishKumar/Cashflow)
+Group expense system with a C++/WebAssembly debt-settlement solver, PostgreSQL persistence, RBAC, audit history, and real-time updates.
 
 ## Experience
 
-I currently work as an **AI Engineer Intern at NiftyBooks FlexCo**, where I have contributed to multimodal image-generation and editing systems for story illustrations.
+At **NiftyBooks**, I worked on GPU-backed image generation and computer-vision pipelines using ComfyUI, FastAPI, OpenCV, segmentation, inpainting, and model inference.
 
-My work has included:
+One workflow went from **90s+ to ~5–6.5s** after profiling it and replacing an unnecessary generative step with deterministic computer vision.
 
-* Building automated LoRA training workflow and tool for small or character LoRAs
-* Converting author-written stories into scene-level image-generation workflows
-* Maintaining character consistency across multiple story images
-* Identifying selected characters across generated pages
-* Generating and correcting segmentation masks
-* Integrating face replacement, inpainting, recoloring, and related editing operations
-* Building sketch-to-image and consistent story-illustration workflows
+## Tech
 
-## Technical Areas
+**Languages:** Python, TypeScript, JavaScript, C++, SQL  
+**Backend:** Node.js, FastAPI, PostgreSQL, Redis, WebSockets, REST  
+**Frontend:** React, Next.js, React Three Fiber, Tailwind  
+**ML/CV:** PyTorch, TensorFlow, Hugging Face, OpenCV, NumPy  
+**Other:** Docker, Linux, GitHub Actions, WebAssembly, Yjs, graph algorithms
 
-| Area                  | Technologies                                                                  |
-| --------------------- | ----------------------------------------------------------------------------- |
-| **Languages**         | Python, C++, TypeScript, JavaScript, Go, SQL                                      |
-| **Machine learning**  | PyTorch, Hugging Face, diffusion pipelines, computer vision, model evaluation |
-| **Backend systems**   | FastAPI, Node.js, Express, PostgreSQL, Redis, Prisma                          |
-| **Real-time systems** | WebSockets, Socket.IO, Redis pub/sub, collaborative state                     |
-| **Frontend**          | React, Next.js, React Flow, Tailwind CSS                                      |
-| **Systems tooling**   | Linux, Docker, Git, WebAssembly, Emscripten                                   |
+## Links
 
-## What colleagues say
-
-> “He engineered automated LoRA training pipelines and illustration systems
-> that maintain style consistency while optimizing GPU performance to achieve
-> sub-10-second generation times on standard RTX 4000/4090 hardware.”
->
-> — **Dr. Benjamin Zingsem**, CTO at NiftyBooks  
-> [View the full recommendation on LinkedIn](https://www.linkedin.com/in/sanish-kumar-8b41041b5/)
-
-At NiftyBooks, I worked on multi-stage generative-media systems involving
-consistent character generation, automated segmentation, editable masks,
-face replacement, inpainting, asset extraction, and GPU-backed inference.
-
-## Projects and Packages
-
-* [System Synthesis](https://github.com/SanishKumar/System-Synthesis)
-* [VoiceGIS](https://github.com/SanishKumar/VoiceGIS)
-* [VoiceGIS on npm](https://www.npmjs.com/package/voicegis)
-* [CashFlow](https://github.com/SanishKumar/Cashflow)
-* [Portfolio](https://sanishkumar.vercel.app)
-* and more....
-
-## Coding Profiles
-
-* [LeetCode](https://leetcode.com/u/sanish1212/)
-* [CodeChef](https://www.codechef.com/users/sanishkumar12)
-* [Codeforces](https://codeforces.com/profile/sanishkumar1212)
-* [HackerRank](https://www.hackerrank.com/profile/sanishkumar)
-* [GeeksforGeeks](https://www.geeksforgeeks.org/user/sanishkublle/)
-* [Kaggle](https://www.kaggle.com/sanishkumar12)
-
-## Connect
-
-* [Portfolio](https://sanishkumar.vercel.app)
-* [Résumé](./assets/Sanish_Kumar_Resume.pdf)
-* [LinkedIn](https://www.linkedin.com/in/sanish-kumar/)
-* [X](https://x.com/TheSanishK)
-* [Email](mailto:sanishkumar1212@gmail.com)
-* [npm](https://www.npmjs.com/~blazing_helios)
-
-
+[Portfolio](https://sanishkumar.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/sanish-kumar/) ·
+[X](https://x.com/TheSanishK) ·
