@@ -44,4 +44,4 @@ One masked editing path went from more than 90 seconds to approximately 5–6.5 
 
 ## Links
 
-[Portfolio](https://sanishkumar.vercel.app/) · [Résumé](https://sanishkumar.vercel.app/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/sanish-kumar/) · [X](https://x.com/TheSanishK) · [npm](https://www.npmjs.com/~sanishkumar)
+[Portfolio](https://sanishkumar.vercel.app/) · [Résumé](https://sanishkumar.vercel.app/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/sanish-kumar/) · [X](https://x.com/TheSanishK) · [npm](https://www.npmjs.com/~blazing_helios)
